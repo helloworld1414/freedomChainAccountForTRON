@@ -2,9 +2,11 @@ freedomChainAccountForTRON
 =============
 
 This is freedom TRON account in TRON chain
+
 You can used 1 million account and freedom
 
 All account is freedom, you are everyone and everyone is you
+
 #whoami
 
 TRON ACCOUNT FORMAT 
@@ -27,37 +29,17 @@ True is true address in TRON chain
 TRON ACCOUNT WEB 
 =============
 
-you can import account by private key!
+You can import account by private key!
 
-`tronscan <https://tronscan.org>`
-`tronpay <https://chrome.google.com/webstore/detail/tronpay/gjdneabihbmcpobmfhcnljaojmgoihfk>`
-`tronlink <https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec>`
+`tronscan <https://tronscan.org>`__
+
+`tronpay <https://chrome.google.com/webstore/detail/tronpay/gjdneabihbmcpobmfhcnljaojmgoihfk>`__
+
+`tronlink <https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec>`__
 
 Donations
 =============
 
 TRON: TEJZu2Y9TcQodubcpv1Py6iTj8fyqPKREA
 
-.. code-block:: bash
-
-█████████████████████████████████████
-█████████████████████████████████████
-████ ▄▄▄▄▄ █ ▀▀▄ ▀▀▄ █▄███ ▄▄▄▄▄ ████
-████ █   █ ███ ▄▄█ ▄▄▄▀█▀█ █   █ ████
-████ █▄▄▄█ █ ▄▄ █▄▄ █▄▀█ █ █▄▄▄█ ████
-████▄▄▄▄▄▄▄█ █ ▀ █ ▀ █▄█▄█▄▄▄▄▄▄▄████
-████ ▄▄██ ▄▀   ██  █▄▀█▀▀▄  ▄█▀ ▄████
-████▄█  ▀▄▄█ ▀█▄█▀█▄██▄▄▄█▄▀▀ ██ ████
-████▄▀ ▄▄█▄██ █▄ ▄█▄ ▀ ▄▀▀  █▀█▄█████
-████▀▄▀▀▄▄▄▀  ▄▀ ▄ ▄▀▄▄▄█▀▄█▄█▄▀▄████
-█████ █ ▀ ▄███▀██  ▄ ██ ██ ▀▄███▄████
-████▄▄▄▀▀ ▄ ▄██▄█▀█ ▄██  ▄ ██ ██▄████
-████▄▄▄▄█▄▄▄ ██▄ ▄█▄▀▀▀  ▄▄▄ █ ▀▄████
-████ ▄▄▄▄▄ █▀▀█▀ ▄  █▄ ▀ █▄█ █▄█ ████
-████ █   █ ██ ▀██  █ █▀▄▄ ▄▄ █▀▄ ████
-████ █▄▄▄█ █ █▀▄█▀█▄▄▄   ▄██▄▀▄▄▄████
-████▄▄▄▄▄▄▄█▄▄▄▄▄▄█ █ ██▄███▄█▄█▄████
-█████████████████████████████████████
-█████████████████████████████████████
-
-------------
+.. image:: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=TEJZu2Y9TcQodubcpv1Py6iTj8fyqPKREA&qzone=1&margin=0&size=400x400&ecc=L target:: http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=TEJZu2Y9TcQodubcpv1Py6iTj8fyqPKREA&qzone=1&margin=0&size=400x400&ecc=L
